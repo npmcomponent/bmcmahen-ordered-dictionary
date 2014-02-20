@@ -1,6 +1,6 @@
 // Modules
-var indexOf = require('indexof'),
-		Emitter = require('emitter');
+var indexOf = require('component-indexof'),
+		Emitter = require('component-emitter');
 
 var OrderedDictonary = function(attr){
 	if (!(this instanceof OrderedDictonary))

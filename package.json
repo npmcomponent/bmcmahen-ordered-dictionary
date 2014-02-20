@@ -1,0 +1,11 @@
+{
+  "name": "bmcmahen-ordered-dictionary",
+  "description": "permits quick lookups (by key) and maintain ordering of objects",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git",
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git"
+  },
+  "license": "MIT"
+}
